@@ -1,0 +1,59 @@
+﻿ID,Country or Subregion,Date of Last Report ,Last Case Reported,Measure Names,In / Out of Subregions,Measure Values,Min. Total Countries
+1,Canada,2018-12-29,---,Total Cases (b),Out,0,1
+1,United States of America,2018-12-29,2018-12-29,Total Cases (b),Out,87,1
+1,North America (minus Mexico),---,---,Total Cases (b),In,87,1
+2,Belize,2018-12-29,2018-12-29,Total Cases (b),Out,477,1
+2,Costa Rica,2018-12-29,2018-12-29,Total Cases (b),Out,146,1
+2,El Salvador,2018-12-29,2018-12-29,Total Cases (b),Out,388,1
+2,Guatemala,2018-12-29,2018-12-29,Total Cases (b),Out,243,1
+2,Honduras,2018-12-29,2018-12-29,Total Cases (b),Out,185,1
+2,Mexico,2018-12-29,2018-12-29,Total Cases (b),Out,39,1
+2,Nicaragua,2018-12-29,2018-12-29,Total Cases (b),Out,299,1
+2,Panama,2018-12-29,2018-12-29,Total Cases (b),Out,2604,1
+2,Central America and Mexico,---,---,Total Cases (b),In,4381,1
+3,Bolivia,2018-12-29,2018-12-29,Total Cases (b),Out,2514,1
+3,Colombia,2018-12-29,2018-12-29,Total Cases (b),Out,663,1
+3,Ecuador,2018-12-29,2018-12-29,Total Cases (b),Out,12,1
+3,Peru,2018-12-29,2018-12-29,Total Cases (b),Out,341,1
+3,Venezuela,2018-12-29,2018-12-29,Total Cases (b),Out,295,1
+3,Andean Subregion,---,---,Total Cases (b),In,3825,1
+4,Argentina,2018-12-29,---,Total Cases (b),Out,0,1
+4,Brazil,2018-12-29,2018-12-29,Total Cases (b),Out,87687,1
+4,Chile,2018-12-29,---,Total Cases (b),Out,0,1
+4,Paraguay,2018-12-29,2018-12-29,Total Cases (b),Out,1237,1
+4,Uruguay,2018-12-29,---,Total Cases (b),Out,0,1
+4,Southern Cone,---,---,Total Cases (b),In,88924,1
+5,Cuba,2018-12-29,---,Total Cases (b),Out,0,1
+5,Dominican Republic,2015-01-03,2015-01-03,Total Cases (b),Out,,1
+5,Puerto Rico,2018-12-29,2017-04-08,Total Cases (b),Out,0,1
+5,Latin Caribbean,---,---,Total Cases (b),In,0,1
+6,Anguilla,2019-12-28,---,Total Cases (b),Out,,1
+6,Antigua and Barbuda,---,---,Total Cases (b),Out,,1
+6,Aruba,---,---,Total Cases (b),Out,,1
+6,Bahamas,---,---,Total Cases (b),Out,,1
+6,Barbados,2018-12-29,2018-12-08,Total Cases (b),Out,27,1
+6,Bermuda,2018-12-29,---,Total Cases (b),Out,0,1
+6,"Bonaire, Saint Eustatius and Saba",---,---,Total Cases (b),Out,,1
+6,Cayman Islands,2020-02-29,---,Total Cases (b),Out,,1
+6,Curaçao,---,---,Total Cases (b),Out,,1
+6,Dominica,---,---,Total Cases (b),Out,,1
+6,French Guiana,2018-06-30,2018-06-30,Total Cases (b),Out,140,1
+6,Grenada,---,---,Total Cases (b),Out,,1
+6,Guadeloupe,2022-12-10,---,Total Cases (b),Out,,1
+6,Guyana,---,---,Total Cases (b),Out,,1
+6,Haiti,2018-10-20,2018-10-20,Total Cases (b),Out,54,1
+6,Jamaica,2018-12-29,2018-12-29,Total Cases (b),Out,10,1
+6,Martinique,2022-12-10,---,Total Cases (b),Out,,1
+6,Montserrat,---,---,Total Cases (b),Out,,1
+6,Saint Barthelemy,2022-12-10,---,Total Cases (b),Out,,1
+6,Saint Kitts and Nevis,2018-12-29,2018-06-02,Total Cases (b),Out,2,1
+6,Saint Lucia,2018-12-29,2018-12-29,Total Cases (b),Out,2,1
+6,Saint Martin,2022-12-10,---,Total Cases (b),Out,,1
+6,Saint Vincent and the Grenadines,---,---,Total Cases (b),Out,,1
+6,Suriname,2018-12-29,2018-09-08,Total Cases (b),Out,9,1
+6,Trinidad and Tobago,---,---,Total Cases (b),Out,,1
+6,Turks and Caicos Islands,---,---,Total Cases (b),Out,,1
+6,Virgin Islands (UK),---,---,Total Cases (b),Out,,1
+6,Virgin Islands (US),2022-12-24,---,Total Cases (b),Out,,1
+6,Non-Latin Caribbean,---,---,Total Cases (b),In,244,1
+7,The Americas,---,---,Total Cases (b),In,97461,1
